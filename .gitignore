@@ -1,0 +1,4 @@
+backend/venv/
+backend/jobs.db
+frontend/node_modules/
+.DS_Store
