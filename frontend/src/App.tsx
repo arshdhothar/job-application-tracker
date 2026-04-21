@@ -4,7 +4,7 @@ import {
   LineChart, Line, CartesianGrid
 } from "recharts";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://job-application-tracker-production-c092.up.railway.app";
 
 type Job = {
   id: number;
